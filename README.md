@@ -19,4 +19,4 @@ This project was developed in fulfillment of the requirements of the Computer Sc
 6. You should see output similar to the following: https://github.com/brooke-lampe/Finance/blob/master/running_finance_project_in_ide.JPG
 
 ### Further Reading
-Additional documentation, including design decisions made, can be found in the Design Document included in this repository. The Design Document is a PDF and, as such, should be viewable on most devices.
+Additional documentation, including design decisions made, can be found in the Design Document included in this repository (https://github.com/brooke-lampe/Finance/blob/master/Design%20Document_Brooke%20Lampe.pdf). The Design Document is a PDF and, as such, should be viewable on most devices.
