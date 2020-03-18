@@ -1,0 +1,67 @@
+<Asset>
+	<asset>
+		<code>HBDA99-99-01</code>
+		<label>Happy Bank Deposit Account</label>
+		<type>D</type>
+		<apr>99.99</apr>
+	</asset>
+	<asset>
+		<code>BSS007</code>
+		<label>British Secret Service</label>
+		<type>S</type>
+		<baseRateOfReturn>0.007</baseRateOfReturn>
+		<quarterlyDividend>0.7</quarterlyDividend>
+		<sharePrice>70.0</sharePrice>
+		<symbol>MI6</symbol>
+		<beta>0.7</beta>
+	</asset>
+	<asset>
+		<code>HUSKERS-156H</code>
+		<label>Heartland Union of Students and Kangaroos for Environmental Relief and Service</label>
+		<type>S</type>
+		<baseRateOfReturn>0.1</baseRateOfReturn>
+		<quarterlyDividend>191772.277191</quarterlyDividend>
+		<sharePrice>202.767676767676</sharePrice>
+		<symbol>CORN</symbol>
+		<beta>101.1010101</beta>
+	</asset>
+	<asset>
+		<code>SB-404</code>
+		<label>Suspicious Bank 404</label>
+		<type>D</type>
+		<apr>25.0101</apr>
+	</asset>
+	<asset>
+		<code>LaMe4024</code>
+		<label>La Merienda</label>
+		<type>P</type>
+		<baseRateOfReturn>0.0325</baseRateOfReturn>
+		<quarterlyDividend>17.5</quarterlyDividend>
+		<omega>0.25</omega>
+		<value>4.495</value>
+	</asset>
+	<asset>
+		<code>VPSG9&3/4</code>
+		<label>Voldemort Plastic Surgeries Group</label>
+		<type>P</type>
+		<baseRateOfReturn>0.1022</baseRateOfReturn>
+		<quarterlyDividend>314.0</quarterlyDividend>
+		<omega>0.2</omega>
+		<value>120000.0</value>
+	</asset>
+	<asset>
+		<code>12-PWU</code>
+		<label>People Watchers United</label>
+		<type>P</type>
+		<baseRateOfReturn>5.56</baseRateOfReturn>
+		<quarterlyDividend>0.0</quarterlyDividend>
+		<omega>-0.5</omega>
+		<value>4000.0</value>
+	</asset>
+	<asset>
+		<code>PSAT12</code>
+		<label>Personal Savings Account Two</label>
+		<type>D</type>
+		<apr>1.0E-5</apr>
+	</asset>
+</Asset>

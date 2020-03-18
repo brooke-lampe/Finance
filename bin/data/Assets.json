@@ -1,0 +1,68 @@
+{
+"Asset": [
+	{
+		"code": "HBDA99-99-01",
+		"label": "Happy Bank Deposit Account",
+		"type": "D",
+		"apr": "99.99"
+	},
+	{
+		"code": "BSS007",
+		"label": "British Secret Service",
+		"type": "S",
+		"baseRateOfReturn": "0.007",
+		"quarterlyDividend": "0.7",
+		"sharePrice": "70.0",
+		"symbol": "MI6",
+		"beta": "0.7"
+	},
+	{
+		"code": "HUSKERS-156H",
+		"label": "Heartland Union of Students and Kangaroos for Environmental Relief and Service",
+		"type": "S",
+		"baseRateOfReturn": "0.1",
+		"quarterlyDividend": "191772.277191",
+		"sharePrice": "202.767676767676",
+		"symbol": "CORN",
+		"beta": "101.1010101"
+	},
+	{
+		"code": "SB-404",
+		"label": "Suspicious Bank 404",
+		"type": "D",
+		"apr": "25.0101"
+	},
+	{
+		"code": "LaMe4024",
+		"label": "La Merienda",
+		"type": "P",
+		"baseRateOfReturn": "0.0325",
+		"quarterlyDividend": "17.5",
+		"omega": "0.25",
+		"value": "4.495"
+	},
+	{
+		"code": "VPSG9&3/4",
+		"label": "Voldemort Plastic Surgeries Group",
+		"type": "P",
+		"baseRateOfReturn": "0.1022",
+		"quarterlyDividend": "314.0",
+		"omega": "0.2",
+		"value": "120000.0"
+	},
+	{
+		"code": "12-PWU",
+		"label": "People Watchers United",
+		"type": "P",
+		"baseRateOfReturn": "5.56",
+		"quarterlyDividend": "0.0",
+		"omega": "-0.5",
+		"value": "4000.0"
+	},
+	{
+		"code": "PSAT12",
+		"label": "Personal Savings Account Two",
+		"type": "D",
+		"apr": "1.0E-5"
+	}
+]}

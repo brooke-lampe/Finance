@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Finance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Finance_jar</output-path>
+    <root id="archive" name="Finance.jar">
+      <element id="module-output" name="Finance" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.41-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-core-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-api-2.8.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

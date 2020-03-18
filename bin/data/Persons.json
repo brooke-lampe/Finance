@@ -1,0 +1,127 @@
+{
+"Person": [
+	{
+		"code": "fvfwx1",
+		"secIdentifier": "sec940",
+		"type": "J",
+		"firstName": "Geneva",
+		"lastName": "Fitzgerald",
+		"address": {
+			"street": "738 Losee Terrace",
+			"city": "Gracey",
+			"state": "District of Columbia",
+			"zipcode": "43738-0009",
+			"country": "United States"
+		},
+		"emails": [
+			"genevafitzgerald@adornica.com",
+			"latishalynch@teraprene.com"
+		]
+	},
+	{
+		"code": "74zid3",
+		"secIdentifier": "sec127",
+		"type": "E",
+		"firstName": "Naomi",
+		"lastName": "Boyer",
+		"address": {
+			"street": "783 Pooles Lane",
+			"city": "Beaverdale",
+			"state": "Illinois",
+			"zipcode": "13083",
+			"country": "United States"
+		},
+		"emails": [
+			"naomiboyer@teraprene.com",
+			"salasestrada@securia.com"
+		]
+	},
+	{
+		"code": "ho0u50",
+		"secIdentifier": "null",
+		"type": "null",
+		"firstName": "Johnston",
+		"lastName": "Bryan",
+		"address": {
+			"street": "177 Stryker Street",
+			"city": "Coloma",
+			"state": "Florida",
+			"zipcode": "40956",
+			"country": "United States"
+		},
+		"emails": [
+			"johnstonbryan@typhonica.com"
+		]
+	},
+	{
+		"code": "10zqkc",
+		"secIdentifier": "sec527",
+		"type": "E",
+		"firstName": "Dickson",
+		"lastName": "Castro",
+		"address": {
+			"street": "217 Kansas Place",
+			"city": "Columbus",
+			"state": "South Dakota",
+			"zipcode": "84039-1212",
+			"country": "United States"
+		},
+		"emails": [
+			"dicksoncastro@eargo.com",
+			"watsonpuckett@noralex.com"
+		]
+	},
+	{
+		"code": "fpuw26",
+		"secIdentifier": "null",
+		"type": "null",
+		"firstName": "Isabel",
+		"lastName": "Marquez",
+		"address": {
+			"street": "594 Lloyd Street",
+			"city": "Ballico",
+			"state": "Kansas",
+			"zipcode": "20808",
+			"country": "United States"
+		},
+		"emails": [
+			"isabelmarquez@noralex.com"
+		]
+	},
+	{
+		"code": "9c9kbb",
+		"secIdentifier": "null",
+		"type": "null",
+		"firstName": "Corrine",
+		"lastName": "Bright",
+		"address": {
+			"street": "623 McKinley Avenue",
+			"city": "Waukeenah",
+			"state": "Utah",
+			"zipcode": "75746",
+			"country": "United States"
+		},
+		"emails": [
+			"corrinebright@lingoage.com"
+		]
+	},
+	{
+		"code": "007",
+		"secIdentifier": "null",
+		"type": "null",
+		"firstName": "James",
+		"lastName": "Bond",
+		"address": {
+			"street": "85 Vauxhall Cross",
+			"city": "London",
+			"state": "null",
+			"zipcode": "00700",
+			"country": "United Kingdom"
+		},
+		"emails": [
+			"jamesbond@mi6.com",
+			"yourworstenemy@britishsecretservice.com",
+			"007@skyfall.com"
+		]
+	}
+]}
