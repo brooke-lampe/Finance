@@ -1,5 +1,5 @@
 # One Basket Finance
-This project was developed in fulfillment of the requirements of the Computer Science II course. It provides financial management functionalities for the fictious One Basket Finance corporation.
+This project was developed in fulfillment of the requirements of the Computer Science II course. It provides financial management functionalities for the fictitious One Basket Finance corporation.
 
 ### Getting Started
 ##### As a user...
